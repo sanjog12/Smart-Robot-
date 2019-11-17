@@ -1,0 +1,2 @@
+# Smart-Robot-
+It is a very basic smart robot which can be used for further development in Arduino, It can perform random defined tasks with OLED Screen mounted on the bot to show his expressions similar to a human being. Further development is in progress, which including connecting it with Alexa and other smart home devices, and the use of cloud computing for fast and multiple processes to make the robot more and more interesting. 
