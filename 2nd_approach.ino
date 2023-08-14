@@ -256,7 +256,7 @@ int face() {
        case 6:{
         temp=random(3,9);
         int i=0 ;
-        int t[]={500,1000,750,1500,2000}
+        int t[]={500,1000,750,1500,2000};
         while(i<temp){
           movement (0,150,0,0);
           delay(500);
